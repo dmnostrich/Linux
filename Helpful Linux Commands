@@ -1,0 +1,1 @@
+# ln -sf <normalToolDir> /usr/bin/<ToolName> //To access tool from anyware
