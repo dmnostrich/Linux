@@ -1,1 +1,3 @@
 # ln -sf <normalToolDir> /usr/bin/<ToolName> //To access tool from anyware
+$ burpsuite &
+  it will start burp without executing in terminal
